@@ -17,5 +17,5 @@
 <h3>👨‍🎓&emsp;Currently Learning</h3>
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge"></a>
+    <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge"></a>
   </p>
