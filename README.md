@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&duration=1500&pause=3000&size=30&center=true&vCenter=true&width=800&height=100&lines=Computer+Science+Student+@42Paris;AI+and+Entrepreneurship+Enthousiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&duration=1500&pause=3000&size=30&center=true&vCenter=true&width=800&height=100&lines=Computer+Science+Student+@42Paris;Web+AI+and+Entrepreneurship+Enthousiast">
   </a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </p>
