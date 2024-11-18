@@ -1,44 +1,206 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&duration=1500&pause=3000&size=30&center=true&vCenter=true&width=800&height=100&lines=Computer+Science+Student+@42Paris;Web+AI+and+Entrepreneurship+Enthousiast">
-  </a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</p>
-<summary>
-    <h2>&emsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>&emsp;Skills</b></h3>
-</summary>
-<h3>👨‍💻&emsp;Main Languages</h3>
-  <p>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=for-the-badge"</a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge"></a>
-  </p>
+#  Doxygen Awesome
 
-<h3>👨‍🎓&emsp;Currently Learning</h3>
-  <p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge"></a>
-  </p>
-  <h3>🧰&emsp;Tools </h3>
-  <p>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
-      <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
-      <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
-      <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></a>
-  </p>
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/jothepro/doxygen-awesome-css)](https://github.com/jothepro/doxygen-awesome-css/releases/latest)
+[![GitHub](https://img.shields.io/github/license/jothepro/doxygen-awesome-css)](https://github.com/jothepro/doxygen-awesome-css/blob/main/LICENSE)
+![GitHub Repo stars](https://img.shields.io/github/stars/jothepro/doxygen-awesome-css)
 
-<h3>❤️&emsp;Setup</h3>
-  <p>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
-    <a href="#"><img alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic"></a>
-  </p>
+<div class="title_screenshot">
+
+![Screenshot of Doxygen Awesome CSS](img/screenshot.png)
+
+</div>
+
+**Doxygen Awesome** is a custom CSS theme for Doxygen HTML documentation with lots of customization parameters.
+
+## Motivation
+
+I really like how the Doxygen HTML documentation is structured! But IMHO it looks a bit outdated.
+
+This theme is an attempt to update the visuals of Doxygen without changing its overall layout too much.
+
+## Features
+
+- 🌈 Clean, modern design
+- 🚀 Heavily customizable by adjusting CSS variables
+- 🧩 No changes to the HTML structure of Doxygen are required
+- 📱 Improved mobile usability
+- 🌘 Dark mode support!
+- 🥇 Works best with **doxygen 1.9.1** - **1.9.4** and **1.9.6** - **1.12.0**
+
+## Examples
+
+Some websites using this theme:
+
+- [Documentation of this repository](https://jothepro.github.io/doxygen-awesome-css/)
+- [wxWidgets](https://docs.wxwidgets.org/3.2/)
+- [OpenCV 5.x](https://docs.opencv.org/5.x/)
+- [Zephyr](https://docs.zephyrproject.org/latest/doxygen/html/index.html)
+- [FELTOR](https://mwiesenberger.github.io/feltor/dg/html/modules.html)
+- [Spatial Audio Framework (SAF)](https://leomccormack.github.io/Spatial_Audio_Framework/index.html)
+- [Randolf Richardson's C++ classes](https://www.randolf.ca/c++/docs/)
+- [libCloudSync](https://jothepro.github.io/libCloudSync/)
+- [libsl3](https://a4z.github.io/libsl3/)
+
+## Installation
+
+To use the theme when generating your documentation, bring the required CSS and JS files from this repository into your project.
+
+This can be done in several ways:
+
+- manually copying the files
+- adding the project as a Git submodule
+- downloading the project with CMake FetchContent
+- adding the project as a npm/xpm dependency
+- installing the theme system-wide
+
+All theme files are located in the root of this repository and start with the prefix `doxygen-awesome-`. You may not need all of them. Follow the install instructions to figure out what files are required for your setup.
+
+### Git submodule
+For projects that use git, add the repository as a submodule and check out the desired release:
+
+```sh
+git submodule add https://github.com/jothepro/doxygen-awesome-css.git
+cd doxygen-awesome-css
+git checkout v2.3.4
+```
+
+### CMake with FetchContent
+
+For project that build with CMake, the `FetchContent` module can be used to download the repository at configure-time.
+
+Add the following snippet to your `CMakeLists.txt`
+
+```cmake
+include(FetchContent)
+FetchContent_Declare(
+    doxygen-awesome-css
+    URL https://github.com/jothepro/doxygen-awesome-css/archive/refs/heads/main.zip
+)
+FetchContent_MakeAvailable(doxygen-awesome-css)
+
+# Save the location the files were cloned into
+# This allows us to get the path to doxygen-awesome.css
+FetchContent_GetProperties(doxygen-awesome-css SOURCE_DIR AWESOME_CSS_DIR)
+
+# Generate the Doxyfile
+set(DOXYFILE_IN ${CMAKE_CURRENT_SOURCE_DIR}/doc/Doxyfile.in)
+set(DOXYFILE_OUT ${CMAKE_CURRENT_BINARY_DIR}/Doxyfile)
+configure_file(${DOXYFILE_IN} ${DOXYFILE_OUT} @ONLY)
+```
+
+This downloads the latest main (but any other revision could be used) and unpacks in the build folder. The `Doxyfile.in` can reference this location in the `HTML_EXTRA_STYLESHEET` field
+
+```text
+HTML_EXTRA_STYLESHEET  = @AWESOME_CSS_DIR@/doxygen-awesome.css
+```
+
+When the configure stage of CMake is run, the `Doxyfile.in` is rendered to Doxyfile and Doxygen can be run as usual.
+
+### npm/xpm dependency
+
+In the npm ecosystem, this project can be added as a development dependency
+to your project:
+
+```sh
+cd your-project
+npm install https://github.com/jothepro/doxygen-awesome-css#v2.3.4 --save-dev
+
+ls -l node_module/@jothepro/doxygen-awesome-css
+```
+
+Similarly, in the [xPack](https://xpack.github.io) ecosystem, this project can be added
+as a development dependency to an [`xpm`](https://xpack.github.io/xpm/)
+managed project.
+
+### System-wide
+
+You can even install the theme system-wide by running `make install`.
+The files will be installed to `/usr/local/share/` by default,
+but you can customize the install location with `make PREFIX=/my/custom/path install`.
+
+### Choosing a layout
+
+There are two layout options. Choose one of them and configure Doxygen accordingly:
+
+<div class="tabbed">
+
+- <b class="tab-title">Base Theme</b><div class="darkmode_inverted_image">
+    ![](img/theme-variants-base.drawio.svg)
+    </div>
+    Comes with the typical Doxygen titlebar. Optionally the treeview in the sidebar can be enabled.
+
+    Required files: `doxygen-awesome.css`
+
+    Required `Doxyfile` configuration:
+    ```
+    GENERATE_TREEVIEW      = YES # optional. Also works without treeview
+    DISABLE_INDEX = NO
+    FULL_SIDEBAR = NO
+    HTML_EXTRA_STYLESHEET  = doxygen-awesome-css/doxygen-awesome.css
+    HTML_COLORSTYLE        = LIGHT # required with Doxygen >= 1.9.5
+    ```
+
+- <b class="tab-title">Sidebar-Only Theme</b><div class="darkmode_inverted_image">
+    ![](img/theme-variants-sidebar-only.drawio.svg)
+    </div>
+    Hides the top titlebar to give more space to the content. The treeview must be enabled in order for this theme to work.
+
+    Required files: `doxygen-awesome.css`, `doxygen-awesome-sidebar-only.css`
+
+    Required `Doxyfile` configuration:
+    ```
+
+    GENERATE_TREEVIEW      = YES # required!
+    DISABLE_INDEX          = NO
+    FULL_SIDEBAR           = NO
+    HTML_EXTRA_STYLESHEET  = doxygen-awesome-css/doxygen-awesome.css \
+                            doxygen-awesome-css/doxygen-awesome-sidebar-only.css
+    HTML_COLORSTYLE        = LIGHT # required with Doxygen >= 1.9.5
+    ```
+
+</div>
+
+<br>
+
+@warning
+- This theme is not compatible with the `FULL_SIDEBAR = YES` option provided by Doxygen!
+- `HTML_COLORSTYLE` must be set to `LIGHT` since Doxygen 1.9.5!
+
+### Further installation instructions
+
+- [Installing extensions](docs/extensions.md)
+- [Customizing the theme (colors, spacing, border-radius, ...)](docs/customization.md)
+- [Tips and Tricks for further configuration](docs/tricks.md)
+
+## Browser support
+
+Tested with
+
+- Chrome 119, Chrome 119 for Android, Chrome 119 for iOS
+- Safari 17, Safari for iOS 16
+- Firefox 118, Firefox 120 for Android, Firefox 119 for iOS
+- Edge 119
+- Opera 108
+
+
+The theme does not strive to be backward compatible with (significantly) older browser versions.
+
+
+## Credits
+
+Thanks for all the bug reports and inspiring feedback on GitHub!
+
+Special thanks to all the contributors:
+<br><br>
+<a href="https://github.com/jothepro/doxygen-awesome-css/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=jothepro/doxygen-awesome-css" />
+</a>
+
+
+<div class="section_buttons">
+
+|                        Read Next |
+|---------------------------------:|
+| [Extensions](docs/extensions.md) |
+
+</div>
