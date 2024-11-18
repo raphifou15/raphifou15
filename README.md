@@ -1,44 +1,68 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&duration=1500&pause=3000&size=30&center=true&vCenter=true&width=800&height=100&lines=Computer+Science+Student+@42Paris;Web+AI+and+Entrepreneurship+Enthousiast">
-  </a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-</p>
-<summary>
-    <h2>&emsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>&emsp;Skills</b></h3>
-</summary>
-<h3>👨‍💻&emsp;Main Languages</h3>
-  <p>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=for-the-badge"</a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge"></a>
-  </p>
+Je ne peux pas générer de fichier README.md sans informations sur le projet en question. 
 
-<h3>👨‍🎓&emsp;Currently Learning</h3>
-  <p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge"></a>
-  </p>
-  <h3>🧰&emsp;Tools </h3>
-  <p>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
-      <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
-      <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
-      <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></a>
-  </p>
+Pour créer un README.md utile, j'ai besoin de savoir :
 
-<h3>❤️&emsp;Setup</h3>
-  <p>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
-    <a href="#"><img alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic"></a>
-  </p>
+* **Quel est le nom du projet ?**
+* **Quelle est la description du projet ? Que fait-il ?**
+* **Y a-t-il des dépendances à installer ? Si oui, lesquelles et comment ?**
+* **Comment utiliser le projet ? Y a-t-il des commandes à exécuter ?**
+* **Quelles sont les fonctionnalités du projet ?**
+* **Pouvez-vous me donner un exemple concret d'utilisation ?**
+
+Avec ces informations, je peux générer un fichier README.md clair et bien structuré comme vous le souhaitez.
+
+En attendant, voici un modèle de README.md que vous pouvez utiliser comme point de départ :
+
+```markdown
+# Nom du projet
+
+## Table des matières
+
+* [Description](#description)
+* [Installation](#installation)
+* [Utilisation](#utilisation)
+* [Fonctionnalités](#fonctionnalités)
+* [Exemple d'utilisation](#exemple-dutilisation)
+
+## Description
+
+Une brève description de ce que fait le projet.
+
+## Installation
+
+Expliquez comment installer les dépendances nécessaires. Par exemple :
+
+```
+pip install -r requirements.txt
+```
+
+## Utilisation
+
+Expliquez comment utiliser le projet. Par exemple, s'il y a un Makefile :
+
+```
+make
+```
+
+Ou, s'il faut exécuter un script spécifique :
+
+```
+python main.py
+```
+
+Indiquez également si un fichier d'entrée est nécessaire et s'il est fourni dans le projet. 
+
+## Fonctionnalités
+
+Liste des fonctionnalités du projet. Par exemple :
+
+* Fonctionnalité 1
+* Fonctionnalité 2
+* Fonctionnalité 3
+
+## Exemple d'utilisation
+
+Un exemple concret d'utilisation du projet. 
+```
+
+N'hésitez pas à me fournir plus d'informations sur votre projet afin que je puisse vous aider à créer un fichier README.md complet. 
